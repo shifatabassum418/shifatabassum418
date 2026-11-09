@@ -19,9 +19,4 @@ I build AI agents, RAG apps and full-stack AI products.
 | NotebookLM Lite | Chat with PDFs, with page citations | [Code](https://github.com/shifatabassum418/notebooklm) · [Live](https://notebooklm-rd53.onrender.com) |
 | OmniSight | UI self-healing and RPA agent (team project) | [Code](https://github.com/BoogeMan-lab/OmniSight) |
 
-## Tech
-Python · FastAPI · LangGraph · RAG · MCP · React · TypeScript · Tailwind CSS · PostgreSQL · Playwright · Groq
-**shifatabassum418/shifatabassum418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
