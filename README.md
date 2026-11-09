@@ -2,7 +2,7 @@
 
  I'm Shifa Tabassum 
 
-**Agent Developer | AI Engineer** based in Hyderabad, India.
+**Agent Developer | AI Engineer
 I build AI agents, RAG apps and full-stack AI products.
 
 🌐 Portfolio: https://shifatabassum418.github.io/portfolio/
