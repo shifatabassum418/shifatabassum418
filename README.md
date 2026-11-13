@@ -24,7 +24,7 @@ Junior AI/ML Engineer from Hyderabad with an MCA (2025) and a completed AI Speci
 | NotebookLM Lite | Chat with PDFs, with page citations | [add tech] | [Code](https://github.com/shifatabassum418/notebooklm) · [Live](https://notebooklm-rd53.onrender.com) |
 | OmniSight | UI self-healing and RPA agent (team project), my part: Playwright automation module with 14 pytest tests | Python, Playwright, pytest, FastAPI, VLMs | [Code](https://github.com/BoogeMan-lab/OmniSight) |
 
-> Live demos run on a free tier and may take about a minute to wake up.
+
 
 ## 💼 Experience
 - **Generative AI Developer**, Infotact Solutions
@@ -33,8 +33,8 @@ Junior AI/ML Engineer from Hyderabad with an MCA (2025) and a completed AI Speci
   Wrote semantic markup, integrated a React.js frontend with RESTful APIs, and supported API testing and backend data handling.
 
 ## 🎓 Education
-- **MCA**, MESCO Institute of Management and Computer Sciences, Osmania University (2023–2025)
-- **B.Sc Computer Science**, Osmania University (2020–2023)
+- **MCA**, Osmania University 
+- **B.Sc Computer Science**, Osmania University 
 
 ## 📜 Certification
 - **Artificial Intelligence Specialist Program**, Full Stack Academy, Hyderabad (2026), Certificate of Excellence in GenAI, Agentic AI, MCP, RAG, Multi-Agent Systems and Prompt Engineering
